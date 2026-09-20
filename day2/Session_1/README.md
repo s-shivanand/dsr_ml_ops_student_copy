@@ -1,8 +1,7 @@
 # Session 1 — Model Serving with FastAPI
 
 Demonstrates the full cycle: **train → save → serve → call** using the iris
-dataset and FastAPI. Corresponds to sections 5.3–5.4 of
-[day2_materials.md](../day2_materials.md).
+dataset and FastAPI. 
 
 ## Files
 

@@ -19,7 +19,7 @@ The `.dockerignore` lives at the **repo root** (where the build context is set).
 
 ---
 
-## Quick start
+## Quick start (Make sure Docker Desktop is running)
 
 ### Option A — docker run directly
 
