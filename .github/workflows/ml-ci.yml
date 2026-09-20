@@ -51,3 +51,6 @@ jobs:
 
       - name: Run model tests
         run: pytest day2/Session_3/test_model.py -v
+
+      - name: Confirm completion
+        run: echo "Tests have been completed!"
