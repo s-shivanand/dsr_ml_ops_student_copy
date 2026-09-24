@@ -14,7 +14,7 @@ Requires: day2/Session_1/train.py to have been run first.
 from sklearn.metrics import accuracy_score
 
 
-ACCURACY_THRESHOLD = 0.90
+ACCURACY_THRESHOLD = 0.9
 
 
 def test_accuracy_above_threshold(trained_model, train_test_data):
